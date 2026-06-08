@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meme Jujutsu Kaisen</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            text-align: center;
+            max-width: 350px;
+        }
+        .card img {
+            width: 100%;
+            border-radius: 10px;
+            display: block;
+        }
+        .quotes {
+            margin-top: 15px;
+            font-weight: bold;
+            color: #333;
+        }
+        .quote-toji {
+            color: #1a1a1a;
+            font-size: 1.1rem;
+        }
+        .quote-megumi {
+            color: #555;
+            font-size: 1rem;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhJJdRjsm9PqHrtKyHtJv3zkSHjDEF1W-zA&s" alt="Toji dan Megumi">
+        
+        <div class="quotes">
+            <p class="quote-toji">Lelaki: "I COME IN PEACE"</p>
+            <p class="quote-megumi">Perempuan: "I'M PEACE"</p>
+        </div>
+    </div>
+
+</body>
+</html>
